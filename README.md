@@ -12,3 +12,22 @@ This project implements an Attention U-Net model to segment lung regions and inf
    ```bash
    git clone https://github.com/AmirFeiz2001/lung_segmentation_covid19.git
    cd lung_segmentation_covid19
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+## Installation
+1. Clone the repository:
+   ```bash
+   python main.py --data_dir /path/to/data --output_dir /path/to/output --epochs 50
+
+## Data
+The dataset should be organized as:
+```bash
+   data/
+   ├── ct_scans/
+   ├── lung_mask/
+   ├── infection_mask/
+   ├── lung_and_infection_mask/
+   
