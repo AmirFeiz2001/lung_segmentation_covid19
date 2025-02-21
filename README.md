@@ -10,5 +10,5 @@ This project implements an Attention U-Net model to segment lung regions and inf
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lung_segmentation_covid19.git
+   git clone https://github.com/AmirFeiz2001/lung_segmentation_covid19.git
    cd lung_segmentation_covid19
