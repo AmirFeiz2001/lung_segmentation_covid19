@@ -30,4 +30,8 @@ The dataset should be organized as:
    ├── lung_mask/
    ├── infection_mask/
    ├── lung_and_infection_mask/
+```
    
+
+## Results of the model
+![screenshot](lung_segment.png)
